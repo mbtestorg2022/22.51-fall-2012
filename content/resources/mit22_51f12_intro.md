@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding introductory lecture.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-51-quantum-theory-of-radiation-interactions-fall-2012/89e151c8b98001bf0cd3d6e26b1dcaa9_MIT22_51F12_intro.pdf
 file_type: application/pdf
+parent_uid: f589b815-dee8-087a-e5c3-3e6932cc8dcf
 resourcetype: Document
 title: '22.51 Lecture slides: Introductory lecture'
 uid: 89e151c8-b980-01bf-0cd3-d6e26b1dcaa9
